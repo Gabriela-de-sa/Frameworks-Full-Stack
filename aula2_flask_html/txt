@@ -1,0 +1,11 @@
+flask com html
+
+
+forms 
+
+atributo action e a rota do flask tem que ter o mesmo nome
+
+o que o navegador le é o name do parametro 
+
+no flask para ler no navegador se usa o request.form com a variavel 
+
