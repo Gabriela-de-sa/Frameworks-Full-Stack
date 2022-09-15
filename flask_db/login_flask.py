@@ -53,10 +53,3 @@ if __name__ == "__main__":
 
 
 
-# docker
-'''
-1. Fazer cadastro e logar: https://hub.docker.com
-2. Criar instancia no play-labs: https://labs.play-with-docker.com/
-3. docker pull mysql:5.7
-4. docker run --name mysql5 -e MYSQL_ROOT_PASSWORD=mudar123 -p 3307:3307 -d mysql:5.7
-'''
