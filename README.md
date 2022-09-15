@@ -1,2 +1,0 @@
-# Frameworks-Full-Stack
-Code
